@@ -10,15 +10,16 @@
     "ONE_MIN_CHAT_API_URL": "https://api.1min.ai/api/chat-with-ai",
     "ONE_MIN_API_URL": "https://api.1min.ai/api/features",
     "ONE_MIN_ASSET_URL": "https://api.1min.ai/api/assets",
-    "ONE_MIN_MODELS_API_URL": "https://api.1min.ai/models",
-    "AUTH_TOKEN": ""
+    "ONE_MIN_MODELS_API_URL": "https://api.1min.ai/models"
   },
   "kv_namespaces": [
     {
-      "binding": "RATE_LIMIT_STORE"
+      "binding": "RATE_LIMIT_STORE",
+      "id": "28a8774026894dce8c41fdf5ea4d15d2"
     },
     {
-      "binding": "MODEL_CACHE"
+      "binding": "MODEL_CACHE",
+      "id": "a069a0849e224e23b699c8f5491833ab"
     }
   ]
 }
