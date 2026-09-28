@@ -3,6 +3,7 @@
   "name": "1min-bridge",
   "main": "src/index.ts",
   "compatibility_date": "2025-07-25",
+  "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true
   },
